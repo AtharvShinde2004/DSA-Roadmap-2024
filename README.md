@@ -118,6 +118,7 @@
    - [Algorithms Specialization (Stanford University)](https://rb.gy/0pcln)
    - [FreeCodeCampOrg](https://rb.gy/mpyce)
    - [The Odin Project DSA](https://rb.gy/6402y)
+   - [DSA Roadmap: Complete Learning Guide](https://rb.gy/9l8bf3)
 
 2. **Book**
    - [Introduction to Algorithms [Book]](https://rb.gy/ui3xc)
@@ -132,6 +133,7 @@
    - [HackerRank](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
    - [CodeChef](https://www.codechef.com/)
    - [GeeksforGeeks](https://www.geeksforgeeks.org/)
+   - [Scaler](https://www.scaler.com/)
    - [TopCoder](https://www.topcoder.com/)
 
 Feel free to contribute or suggest additional resources! ☺️🌱
